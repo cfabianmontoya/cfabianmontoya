@@ -19,7 +19,7 @@ const Carlos fabián Montoya = {
    },
    currentOccupation: ["Software engenieer and teacher, open for job opportunities"],
    challenge: "I'm working towards being able to run for the life.",
-   - 🤔 I’m looking for help with ...
+  - 📫 How to reach me.
    ```
 <!--
 **cfabianmontoya/cfabianmontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
